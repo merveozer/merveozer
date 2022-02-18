@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h2 align="center">A Full-Stack Developer based in Istanbul, Turkey.</h2>
-<h3> :office: I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend for both, at work and my personal projects.</h3>
+<h3> :computer: I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend for both, at work and my personal projects.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -20,7 +20,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3> I have been working as a web developer for one year. At the same time, I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and I will graduate in June 2022.</h3>
+<h3> :office: I have been working as a web developer for one year. At the same time, I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and I will graduate in June 2022.</h3>
 <h5> Also, I have worked as a school psychologist for 2 years after graduated from department of psychology. </h5>
 
 
