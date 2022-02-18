@@ -5,9 +5,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">A Full-Stack Developer based in Istanbul, Turkey.</h3>
-<p> 🔭 I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend for both, at work and my personal projects. </p>
-
+<h2 align="center">A Full-Stack Developer based in Istanbul, Turkey.</h2>
+<h3>I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend for both, at work and my personal projects.</h3>
+<h3> I have been working as a web developer for one year. At the same time, I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and i will graduate in June 2022.</h3> </br>
+<h4> Also, i have worked as a school psychologist for 2 years after graduated from department of psychology.</h4>
+ 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
