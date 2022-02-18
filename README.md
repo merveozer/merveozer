@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h2 align="center">A Full-Stack Developer based in Istanbul, Turkey.</h2>
-<h3> :computer: I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend for both, at work and my personal projects.</h3>
+<h3> :computer: I’m currently working on a web application using Spring Boot on the backend and Vuejs on the frontend at work.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
