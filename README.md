@@ -21,7 +21,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3> :office: I have been working as a web developer for one year. At the same time, I'm currently student at Certificate of Higher Education in Computer Programming (for 2 year) and I will graduate in June 2022.</h3>
+<h3> :office: I have been working as a web developer for one year. At the same time, I'm currently student at Certificate of Higher Education in Computer Programming and I graduated in June 2022.</h3>
 <h5> Also, I have worked as a psychologist for 2 years after graduated from department of psychology. </h5>
 
 
