@@ -17,7 +17,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3> :office: I graduated from Marmara University - Associate in Computer Programming in June 2022. I've been working as a web developer since 2021 August. </h3>
+<h3> :office: I graduated from Marmara University - Associate in Computer Programming in June 2022. </h3>
 
 
 
